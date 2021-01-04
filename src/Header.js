@@ -27,7 +27,7 @@ function Header() {
                 <HeaderOption Icon={BusinessCenterIcon} title='Jobs' />
                 <HeaderOption Icon={ChatIcon} title='Messaging' />
                 <HeaderOption Icon={NotificationIcon} title='Notifications' />
-                <HeaderOption avatar="https://i.pinimg.com/474x/77/5b/91/775b91d4b1bfcac2aa3292b47763c1b1.jpg" title='me' />
+                <HeaderOption avatar="https://avatars3.githubusercontent.com/u/17290152?s=460&u=2c912c971b8f0a8282a97ef43574be90965f4a3c&v=4" title='me' />
             </div>
         </div>
     )
